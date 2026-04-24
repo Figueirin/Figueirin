@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="assets/Header.gif" alt="header" />
-</div>
+<img width="736" height="414" alt="Image" src="https://github.com/user-attachments/assets/899a3abd-b508-4989-bf96-ad30a76bea48" />
 
 <!--
 **Figueirin/Figueirin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
