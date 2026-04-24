@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
-  <img src="./assets/Header.jpg" alt=Lain Banner" style="width: 100%; height: auto;">
+  <img src="./assets/header.jpg" alt=Lain Banner" style="width: 100%; height: auto;">
 </div>
 
 <!--
