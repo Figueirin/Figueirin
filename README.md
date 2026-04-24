@@ -4,4 +4,6 @@
   </a>
 </div>
 
-<img align="right" src="https://komarev.com/ghpvc/?username=Figueirin&color=ff69b4"><br>
+<br>
+
+<img align="left" src="https://komarev.com/ghpvc/?username=Figueirin&color=ff69b4"><br>
