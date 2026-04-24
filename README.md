@@ -1,7 +1,5 @@
-## Hi there 👋
-
 <div align="center">
-  <img src="./assets/Header.gif" alt=Lain Banner" style="width: 100%; height: auto;">
+  <img src="assets/Header.gif" alt="header" />
 </div>
 
 <!--
