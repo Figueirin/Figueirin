@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/Figueirin">
-    <img align="center" src="assets/Header.png" width="848">
+    <img align="center" src="assets/Header.png" width="846">
   </a>
 </div>
 
