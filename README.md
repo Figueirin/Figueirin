@@ -6,6 +6,15 @@
 
 <br>
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/renato-rodrigues-092319194/">
+    <img src="https://img.shields.io/badge/LINKEDIN-2b2b2b?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/renato_rodriguessz">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
 <div style="background-color:#0d1117; padding:20px; border-radius:10px;">
 
 ## 🧑‍💻 SOBRE MIM
