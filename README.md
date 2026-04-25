@@ -11,40 +11,23 @@
 ## 🧑‍💻 SOBRE MIM
 
 - 🎓 Técnico em Internet das Coisas (IoT) pelo IFTM  
-- 🎓 Graduando em Engenharia de Computação pela UnB  
+- 🎓 Graduando em Engenharia de Software pela Universidade de Brasilia - UnB
 - 🧠 Desenvolvendo soluções com foco em integração entre hardware e software, sistemas embarcados e visão computacional
 
 ---
 
-## 🧰 Linguagens e Tecnologias
+## 🧰 Tecnologias e Linguagens
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,c,cpp,js,dart,react,flutter,firebase,arduino" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,python,dart,html,css,react,flutter,firebase,arduino" />
 </p>
 
 </div>
 
-## 👨‍💻 Linguagens
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+## 🐍 Contribuições
 
-## 🌐 Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![snake gif](https://github.com/SEU_USERNAME/SEU_USERNAME/blob/output/github-contribution-grid-snake.svg)
 
-## 📱 Mobile
-![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-## 🔥 Backend & Cloud
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-
-## 🎨 Design
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Figueirin&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Figueirin&theme=dark&hide_border=false)<br/>
