@@ -6,6 +6,24 @@
 
 <br>
 
+<div style="background-color:#0d1117; padding:20px; border-radius:10px;">
+
+## 🧑‍💻 SOBRE MIM
+
+- 🎓 Técnico em Internet das Coisas (IoT) pelo IFTM  
+- 🎓 Graduando em Engenharia de Computação pela UnB  
+- 🧠 Desenvolvendo soluções com foco em integração entre hardware e software, sistemas embarcados e visão computacional
+
+---
+
+## 🧰 Linguagens e Tecnologias
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,c,cpp,js,dart,react,flutter,firebase,arduino" />
+</p>
+
+</div>
+
 ## 👨‍💻 Linguagens
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
