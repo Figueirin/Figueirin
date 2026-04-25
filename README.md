@@ -26,7 +26,7 @@
 
 ## 🐍 Contribuições
 
-![snake gif](https://github.com/SEU_USERNAME/SEU_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![snake](https://github.com/Figueirin/Figueirin/blob/output/github-contribution-grid-snake.svg)
 
 ## 📊 Minhas Estatísticas do GitHub
 
