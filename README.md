@@ -7,11 +7,17 @@
 <br>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/renato-rodrigues-092319194/">
-    <img src="https://img.shields.io/badge/LINKEDIN-2b2b2b?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/renato-rodrigues-092319194/" target="_blank">
+    <img 
+      alt="LinkedIn" 
+      title="Me siga no LinkedIn"
+      src="https://custom-icon-badges.demolab.com/badge/LinkedIn-555555?style=for-the-badge&logo=linkedin-white&logoColor=0077B5&labelColor=black"/>
   </a>
-  <a href="https://instagram.com/renato_rodriguessz">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a href="https://instagram.com/renato_rodriguessz" target="_blank">
+    <img 
+      alt="Instagram" 
+      title="Me siga no Instagram"
+      src="https://custom-icon-badges.demolab.com/badge/Instagram-555555?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=black"/>
   </a>
 </p>
 
