@@ -17,7 +17,7 @@
 </p>
 <div style="background-color:#0d1117; padding:20px; border-radius:10px;">
 
-## 🧑‍💻 SOBRE MIM
+## 🧑‍💻 Sobre mim
 
 - 🎓 Técnico em Internet das Coisas (IoT) pelo IFTM  
 - 🎓 Graduando em Engenharia de Software pela Universidade de Brasilia - UnB
