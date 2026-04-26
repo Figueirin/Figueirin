@@ -7,20 +7,14 @@
 <br>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/renato-rodrigues-092319194/" target="_blank">
-    <img 
+  <a href="https://www.linkedin.com/in/renato-rodrigues-092319194/" target="_blank"><img 
       alt="LinkedIn" 
       title="Me siga no LinkedIn"
-      src="https://custom-icon-badges.demolab.com/badge/LinkedIn-555555?style=for-the-badge&logo=linkedin-white&logoColor=0077B5&labelColor=black"/>
-  </a>
-  <a href="https://instagram.com/renato_rodriguessz" target="_blank">
-    <img 
+      src="https://custom-icon-badges.demolab.com/badge/LinkedIn-555555?style=for-the-badge&logo=linkedin-white&logoColor=0077B5&labelColor=black"/></a><a href="https://instagram.com/renato_rodriguessz" target="_blank"><img 
       alt="Instagram" 
       title="Me siga no Instagram"
-      src="https://custom-icon-badges.demolab.com/badge/Instagram-555555?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=black"/>
-  </a>
+      src="https://custom-icon-badges.demolab.com/badge/Instagram-555555?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=black"/></a>
 </p>
-
 <div style="background-color:#0d1117; padding:20px; border-radius:10px;">
 
 ## 🧑‍💻 SOBRE MIM
